@@ -368,3 +368,13 @@ button:hover {
 .cta-button:hover {
   background: #e0e0e0;
 }
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  /* Mobile styles */
+}
+
