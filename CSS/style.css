@@ -5,6 +5,16 @@ body {
   background: #f9f9f9;
   color: #222;
 }
+html, body {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.site-wrapper {
+  width: 1024px;
+  margin: 0 auto;
+}
+
 
 .navbar {
   display: flex;
